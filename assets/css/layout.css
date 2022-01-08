@@ -5379,6 +5379,7 @@ section#slider .btn-default {
 	 ************************ **/
 	#slider div.slider-featured-text {
 		padding:30px;
+		padding-top:60px;
 	}
 	#slider div.slider-featured-text h1 {
 		text-shadow:rgba(33,33,33,0.5) 1px 1px 3px;
